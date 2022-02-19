@@ -1,0 +1,14 @@
+h1{
+    color: deeppink;
+    font-family: cursive;
+}
+
+h2{
+    color: blue;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    border-radius: 100%;
+}

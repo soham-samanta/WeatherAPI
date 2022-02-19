@@ -1,0 +1,18 @@
+{
+  "name": "weather-api",
+  "version": "2.0.1",
+  "description": "A basic weather app using API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soham Samanta",
+  "license": "ISC",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
