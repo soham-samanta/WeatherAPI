@@ -7,9 +7,13 @@ h2{
     color: blue;
 }
 
+.bird{
+    width: 20%;
+    height: 20%; 
+    border-radius: 100%;
+}
+
 img{
-    /* width: 20%;
-    height: 20%; */
     border-radius: 100%;
     padding: 10px;
 }
